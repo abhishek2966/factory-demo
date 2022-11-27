@@ -1,0 +1,13 @@
+pgdb:
+  db1:
+    host: "satao.db.elephantsql.com"
+    port: "5432"
+    user: "vtjgsbfp"
+    password: "REQUIRED"
+    dbname: "vtjgsbfp"
+  db2:
+    host: "satao.db.elephantsql.com"
+    port: "5432"
+    user: "vtjgsbfp"
+    password: "REQUIRED"
+    dbname: "vtjgsbfp"
